@@ -1,0 +1,6 @@
+.cache/
+.replit/
+.local/
+replit.nix
+.replit
+node_modules/
